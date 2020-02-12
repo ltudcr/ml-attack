@@ -1,0 +1,3 @@
+- label (#0x_x#) curated list
+- show uniq values
+- convert to csv output
