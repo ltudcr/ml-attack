@@ -1,0 +1,153 @@
+[{
+  "#01_#APT30a": {
+    "Techniques Used": {},
+    "Links": {
+      "#01_1#": "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
+      "#01_2#": "https://securelist.com/the-naikon-apt/69953/"
+    },
+    "Software": {
+      "S0031": {
+        "References": ["#01_1#"],
+        "techniques": ["#01_1#T1059", "#01_1#T1090", "#01_1#T1001", "#01_1#T1089", "#01_1#T1041", "#01_1#T1083", "#01_1#T1112", "#01_1#T1104", "#01_1#T1057", "#01_1#T1012", "#01_1#T1060", "#01_1#T1023", "#01_1#T1071", "#01_1#T1082"]
+      },
+      "S0028": {
+        "References": ["#01_1#"],
+        "techniques": ["#01_1#T1060", "#01_1#T1091", "#01_1#T1023"]
+      },
+      "S0036": {
+        "References": ["#01_1#"],
+        "techniques": ["#01_1#T1022", "#01_1#T1005", "#01_1#T1025", "#01_1#T1074", "#01_1#T1083", "#01_1#T1060"]
+      },
+      "S0035": {
+        "References": ["#01_1#"],
+        "techniques": ["#01_1#T1022", "#01_1#T1074", "#01_1#T1052", "#01_1#T1083", "#01_1#T1060", "#01_1#T1023"]
+      },
+      "S0034": {
+        "References": ["#01_1#"],
+        "techniques": ["#01_1#T1059", "#01_1#T1094", "#01_1#T1041", "#01_1#T1008", "#01_1#T1083", "#01_1#T1057", "#01_1#T1060", "#01_1#T1071", "#01_1#T1032", "#01_1#T1095"]
+      }
+    }
+  }
+}, {
+  "#02_#APT12": {
+    "Software": {
+      "S0015": {
+        "References": ["#02_3#", "#02_2#"],
+        "techniques": ["T1001"]
+      },
+      "S0003": {
+        "References": ["#02_2#"],
+        "techniques": ["T1043", "T1071", "T1032"]
+      }
+    },
+    "Links": {
+      "#02_1#": "http://www.crowdstrike.com/blog/whois-numbered-panda/",
+      "#02_3#": "https://www.fireeye.com/blog/threat-research/2013/08/survival-of-the-fittest-new-york-times-attackers-evolve-quickly.html",
+      "#02_2#": "https://www.fireeye.com/blog/threat-research/2014/09/darwins-favorite-apt-group-2.html"
+    },
+    "Techniques Used": {}
+  }
+}, {
+  "#03_#APT1": {
+    "Techniques Used": {
+      "T1057": ["#03_1#"],
+      "T1135": ["#03_1#"],
+      "T1087": ["#03_1#"],
+      "T1075": ["#03_1#"],
+      "T1114": ["#03_1#"],
+      "T1003": ["#03_1#"],
+      "T1346": ["#03_1#"],
+      "T1059": ["#03_1#"],
+      "T1007": ["#03_1#"],
+      "T1005": ["#03_1#"],
+      "T1036": ["#03_1#", "#03_2#"],
+      "T1064": ["#03_1#"],
+      "T1002": ["#03_1#"],
+      "T1076": ["#03_3#"],
+      "T1330": ["#03_1#"],
+      "T1326": ["#03_1#"],
+      "T1333": ["#03_1#"],
+      "T1016": ["#03_1#"],
+      "T1334": ["#03_1#"],
+      "T1049": ["#03_1#"],
+      "T1119": ["#03_1#"]
+    },
+    "Links": {
+      "#03_1#": "https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf",
+      "#03_3#": "https://www.fireeye.com/blog/threat-research/2014/05/the-pla-and-the-800am-500pm-work-day-fireeye-confirms-dojs-findings-on-apt1-intrusion-activity.html",
+      "#03_2#": "https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report-appendix.zip",
+      "#03_5#": "https://www.mcafee.com/enterprise/en-us/assets/reports/rp-operation-oceansalt.pdf",
+      "#03_4#": "http://cdn0.vox-cdn.com/assets/4589853/crowdstrike-intelligence-report-putter-panda.original.pdf"
+    },
+    "Software": {
+      "S0006": {
+        "References": ["#03_1#"],
+        "techniques": ["#03_1#T1003"]
+      },
+      "S0017": {
+        "References": ["#03_1#"],
+        "techniques": ["#03_1#T1059", "#03_1#T1094", "#03_1#T1008", "#03_1#T1056", "#03_1#T1057", "#03_1#T1105", "#03_1#T1113", "#03_1#T1032", "#03_1#T1082", "#03_1#T1033"]
+      },
+      "S0002": {
+        "References": ["#03_1#"],
+        "techniques": ["#03_1#T1098", "#03_1#T1003", "#03_1#T1081", "#03_1#T1207", "#03_1#T1075", "#03_1#T1097", "#03_1#T1145", "#03_1#T1101", "#03_1#T1178"]
+      },
+      "S0029": {
+        "References": ["#03_1#"],
+        "techniques": ["#03_1#T1035", "#03_1#T1077"]
+      },
+      "S0012": {
+        "References": ["#03_1#"],
+        "techniques": ["#03_1#T1010", "#03_1#T1059", "#03_1#T1005", "#03_1#T1074", "#03_1#T1056", "#03_1#T1031", "#03_1#T1112", "#03_1#T1050", "#03_1#T1027", "#03_1#T1055", "#03_1#T1060", "#03_1#T1105", "#03_1#T1014", "#03_1#T1032", "#03_1#T1065"]
+      },
+      "S0025": {
+        "References": ["#03_1#"],
+        "techniques": ["#03_1#T1059", "#03_1#T1102"]
+      },
+      "S0026": {
+        "References": ["#03_1#"],
+        "techniques": ["#03_1#T1102"]
+      },
+      "S0008": {
+        "References": ["#03_1#"],
+        "techniques": ["#03_1#T1003"]
+      },
+      "S0121": {
+        "References": ["#03_1#"],
+        "techniques": ["#03_1#T1003"]
+      },
+      "S0119": {
+        "References": ["#03_1#"],
+        "techniques": ["#03_1#T1003"]
+      },
+      "S0123": {
+        "References": ["#03_2#"],
+        "techniques": ["#03_2#T1035"]
+      },
+      "S0122": {
+        "References": ["#03_1#"],
+        "techniques": ["#03_1#T1075"]
+      },
+      "S0345": {
+        "References": ["#03_2#", "#03_5#"],
+        "techniques": ["#03_2##03_5#T1059", "#03_2##03_5#T1094", "#03_2##03_5#T1083", "#03_2##03_5#T1107", "#03_2##03_5#T1036", "#03_2##03_5#T1050", "#03_2##03_5#T1027", "#03_2##03_5#T1057", "#03_2##03_5#T1060", "#03_2##03_5#T1105", "#03_2##03_5#T1071"]
+      },
+      "S0057": {
+        "References": ["#03_1#"],
+        "techniques": ["#03_1#T1057", "#03_1#T1063", "#03_1#T1007"]
+      },
+      "S0109": {
+        "References": ["#03_1#"],
+        "techniques": ["#03_1#T1059", "#03_1#T1038", "#03_1#T1105"]
+      },
+      "S0039": {
+        "References": ["#03_1#"],
+        "techniques": ["#03_1#T1087", "#03_1#T1136", "T#03_1#1126", "#03_1#T1135", "#03_1#T1201", "#03_1#T1069", "#03_1#T1018", "#03_1#T1035", "#03_1#T1049", "#03_1#T1007", "#03_1#T1124", "#03_1#T1077"]
+      },
+      "S0100": {
+        "References": ["#03_1#"],
+        "techniques": ["#03_1#T1016"]
+      }
+    }
+  }
+}, {

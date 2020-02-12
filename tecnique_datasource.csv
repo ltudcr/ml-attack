@@ -1,0 +1,268 @@
+technique_datasource
+Packet capture,Process use of network,Process monitoring,Network protocol analysis
+Binary file metadata,File monitoring,Process command-line parameters,Process monitoring
+API monitoring,Process monitoring,PowerShell logs,Process command-line parameters
+Windows Registry,File monitoring,Process monitoring
+File monitoring,Process monitoring,Process command-line parameters
+API monitoring
+Process monitoring,Process command-line parameters
+Malware reverse engineering,Netflow/Enclave netflow,Packet capture,Process monitoring,Process use of network
+Binary file metadata,File monitoring,Malware reverse engineering
+API monitoring,Process monitoring,Process command-line parameters
+User interface,Process monitoring
+Windows Registry,Process monitoring,Process command-line parameters
+File monitoring,API monitoring,DLL monitoring,Windows Registry,Process monitoring
+BIOS,MBR,System calls
+Windows Registry,File monitoring,Process monitoring
+Process monitoring,Process command-line parameters
+File monitoring,Process use of network,Process monitoring
+Network protocol analysis,Process monitoring,Process use of network,Process command-line parameters
+API monitoring,BIOS,EFI
+File monitoring,Process monitoring,Process use of network
+Authentication logs
+File monitoring,Process monitoring,Process command-line parameters,Binary file metadata
+File monitoring,Process monitoring,Process command-line parameters
+Packet capture,Netflow/Enclave netflow,Process use of network,Malware reverse engineering,Process monitoring
+File monitoring,Process monitoring,Process command-line parameters
+Packet capture,Netflow/Enclave netflow,Process use of network,Malware reverse engineering,Process monitoring
+Network protocol analysis,Process use of network,File monitoring,Malware reverse engineering,Binary file metadata,Process command-line parameters,Environment variable,Process monitoring,Windows event logs,Network intrusion detection system,Email gateway,SSL/TLS inspection
+File monitoring,Authentication logs,Netflow/Enclave netflow,Process monitoring,Process command-line parameters
+Netflow/Enclave netflow,Process use of network,Process monitoring
+Packet capture,Netflow/Enclave netflow,Process use of network,Process monitoring
+Windows Registry,File monitoring,Process monitoring,Process command-line parameters
+Packet capture,Netflow/Enclave netflow,Malware reverse engineering,Process use of network,Process monitoring,SSL/TLS inspection
+File monitoring,Process monitoring,Process command-line parameters
+File monitoring,Process monitoring
+Windows Registry,Process monitoring,Process command-line parameters
+File monitoring,Process monitoring,Binary file metadata
+File monitoring,Process monitoring
+File monitoring,DLL monitoring,Process monitoring,Process command-line parameters
+File monitoring,Process monitoring,Process command-line parameters
+Network device logs,Host network interface,Netflow/Enclave netflow,Process monitoring
+User interface,Process monitoring
+Windows Registry,Process monitoring,Process command-line parameters
+Packet capture,Netflow/Enclave netflow,Process use of network,Process monitoring
+File monitoring,Services,Process command-line parameters
+Binary file metadata
+Netflow/Enclave netflow,Network protocol analysis,Packet capture,Process command-line parameters,Process use of network
+Authentication logs,Netflow/Enclave netflow,Process monitoring,Process command-line parameters
+User interface,Process monitoring,Process use of network,Packet capture,Netflow/Enclave netflow,Network protocol analysis
+Process monitoring,Process command-line parameters
+Windows Registry,Process monitoring,Process command-line parameters,Windows event logs
+File monitoring,Process monitoring
+Data loss prevention,File monitoring
+File monitoring,Process monitoring,Process command-line parameters,Windows event logs
+Sensor health and status,Process command-line parameters,Process monitoring
+API monitoring,Windows Registry,File monitoring,DLL monitoring,Process monitoring,Named Pipes
+Windows Registry,Kernel drivers,Process monitoring,API monitoring
+Process monitoring,Process command-line parameters
+Process command-line parameters,Services,Windows Registry
+Process monitoring,Process command-line parameters
+Windows Registry,File monitoring
+File monitoring,Process monitoring,Process command-line parameters,Binary file metadata
+System calls
+File monitoring,Process monitoring,Process command-line parameters
+Process monitoring,File monitoring,Process command-line parameters
+Netflow/Enclave netflow,Process use of network,Process monitoring
+Process use of network,Process monitoring,Process command-line parameters,Anti-virus,Binary file metadata
+API monitoring,MBR,VBR
+Windows Error Reporting,Process monitoring,Application logs
+Azure activity logs,Office 365 account logs,API monitoring,Process monitoring,Process command-line parameters
+File monitoring,Process monitoring,Process command-line parameters,API monitoring,Windows event logs
+Packet capture,Netflow/Enclave netflow,Process use of network,Malware reverse engineering,Process monitoring
+File monitoring,Third-party application logs,Windows Registry,Process monitoring,Process use of network,Binary file metadata
+Process use of network,Process monitoring,Loaded DLLs
+File monitoring,Process monitoring,Process command-line parameters
+Authentication logs
+Authentication logs,Netflow/Enclave netflow,Process monitoring
+Process use of network,Authentication logs,Process monitoring,Process command-line parameters
+AWS CloudTrail logs,Stackdriver logs,Authentication logs,Process monitoring
+Packet capture,Process use of network,Malware reverse engineering,Process monitoring
+File monitoring,Process monitoring
+File monitoring,Process command-line parameters
+Azure activity logs,Stackdriver logs,AWS CloudTrail logs,Process monitoring,Process command-line parameters
+File monitoring,Process monitoring,Process command-line parameters
+WMI Objects
+File monitoring,Process monitoring,Process command-line parameters,Binary file metadata
+PowerShell logs,Loaded DLLs,DLL monitoring,Windows Registry,File monitoring,Process monitoring,Process command-line parameters
+Azure activity logs,Office 365 account logs,API monitoring,Process monitoring,Process command-line parameters
+System calls,Process monitoring,Authentication logs,Process command-line parameters
+API monitoring,File monitoring,Services,Windows Registry,Process command-line parameters,Anti-virus
+Process use of network,Process monitoring,Netflow/Enclave netflow,Packet capture
+File monitoring,Data loss prevention
+File monitoring,Data loss prevention
+Process monitoring,API monitoring
+Packet capture,Netflow/Enclave netflow,Process use of network,Process monitoring,Host network interface,Network intrusion detection system,Network protocol analysis
+Host network interface,Netflow/Enclave netflow,Network intrusion detection system,Network protocol analysis,Packet capture,Process use of network
+File monitoring,Kernel drivers,API monitoring,Process command-line parameters
+Authentication logs
+Authentication logs,API monitoring,Windows event logs,Packet capture
+File monitoring,Process monitoring,Process command-line parameters
+Anti-virus,Authentication logs,File monitoring,Netflow/Enclave netflow,Process monitoring
+DLL monitoring,Windows Registry,Loaded DLLs
+Host network interface,Netflow/Enclave netflow,Network protocol analysis,Packet capture,SSL/TLS inspection
+Loaded DLLs,Process monitoring,Windows Registry
+Netflow/Enclave netflow,Network device logs,Network protocol analysis,Packet capture,Process use of network
+File monitoring,Packet capture,Process use of network,Netflow/Enclave netflow,Network protocol analysis,Process monitoring
+API monitoring,Process monitoring
+File monitoring,Process command-line parameters,Binary file metadata
+Office 365 account logs,Azure activity logs,AWS CloudTrail logs,Stackdriver logs,Process monitoring,Process use of network,Packet capture,Network protocol analysis,File monitoring,Authentication logs,Binary file metadata
+Disk forensics,API monitoring,Process monitoring,Component firmware
+Office 365 account logs,Authentication logs
+API monitoring,Process monitoring,Kernel drivers
+Windows Registry,File monitoring,Process monitoring,Process command-line parameters,Windows event logs
+API monitoring,Process monitoring,File monitoring
+Office 365 trace logs,Mail server,Email gateway,Authentication logs,File monitoring,Process monitoring,Process use of network
+API monitoring
+Binary file metadata
+Loaded DLLs,Process monitoring,Windows Registry,Process command-line parameters
+Process monitoring,Process command-line parameters
+File monitoring,Data loss prevention,Process command-line parameters
+PowerShell logs,API monitoring,Process monitoring,Process command-line parameters
+Process monitoring,Process command-line parameters
+Windows Registry,DLL monitoring,Loaded DLLs
+API monitoring,Process monitoring,File monitoring
+Process monitoring,Process command-line parameters,API monitoring
+Process monitoring,File monitoring,API monitoring
+Process monitoring,Process command-line parameters,Packet capture,Authentication logs
+Process monitoring
+DLL monitoring,Windows Registry,Process monitoring
+API monitoring,DLL monitoring,File monitoring,Process monitoring
+SSL/TLS inspection,Digital certificate logs
+DLL monitoring,Windows Registry,Loaded DLLs
+Packet capture,Process use of network,Process monitoring,Network protocol analysis
+Authentication logs
+API monitoring,Access tokens,Process monitoring,Process command-line parameters
+Process monitoring,Process command-line parameters,Network protocol analysis,Process use of network
+Office 365 account logs,Azure activity logs,AWS CloudTrail logs,Process monitoring,Process command-line parameters,Authentication logs,Windows event logs
+Process monitoring,Process command-line parameters,Windows Registry,File monitoring
+Loaded DLLs,System calls,Windows Registry,Process monitoring,Process command-line parameters
+File monitoring,Process monitoring,Process command-line parameters
+File monitoring,Process monitoring,Process command-line parameters
+Process monitoring,Process command-line parameters,User interface,PowerShell logs
+System calls,Process monitoring
+Windows event logs,PowerShell logs,Process command-line parameters,Process monitoring,File monitoring
+File monitoring,Process command-line parameters
+File monitoring
+Authentication logs,File monitoring
+Authentication logs,File monitoring
+Process monitoring,Authentication logs,File monitoring,Environment variable
+Binary file metadata,Malware reverse engineering,Process monitoring
+File monitoring,Process monitoring,Process command-line parameters
+File monitoring,Process monitoring
+File monitoring,Process monitoring,Process command-line parameters
+Process monitoring,File monitoring,Process command-line parameters
+File monitoring,Process monitoring,Process command-line parameters
+API monitoring,System calls,Process monitoring,Process command-line parameters
+File monitoring,Process monitoring,Process command-line parameters,Process use of network
+File monitoring
+File monitoring,Process monitoring,Process command-line parameters
+File monitoring,Process monitoring
+Process monitoring,File monitoring
+Binary file metadata,Process monitoring,Process command-line parameters,File monitoring
+File monitoring,API monitoring
+File monitoring,Process monitoring
+File monitoring
+File monitoring,Process monitoring
+File monitoring,Process monitoring,Process command-line parameters
+Process monitoring
+File monitoring,Process monitoring
+File monitoring
+Process monitoring,Process command-line parameters
+Windows event logs,Windows Registry,Packet capture,Netflow/Enclave netflow
+SSL/TLS inspection,Packet capture
+API monitoring,DLL monitoring,Process monitoring,Windows Registry,Windows event logs
+DLL monitoring,Process monitoring,Windows Registry
+PowerShell logs,API monitoring,Authentication logs,DLL monitoring,Packet capture,Process monitoring,Windows Registry,Windows event logs
+Network protocol analysis,Packet capture,System calls,Process use of network,Process monitoring,Browser extensions
+API monitoring,DLL monitoring,File monitoring,Kernel drivers,Loaded DLLs,Process monitoring
+API monitoring,Authentication logs,Windows event logs
+API monitoring,Binary file metadata,DLL monitoring,Loaded DLLs,Process monitoring,Windows event logs
+Process monitoring,Process command-line parameters,Windows Registry,File monitoring
+API monitoring,Process monitoring
+Loaded DLLs,Process monitoring,Windows Registry
+Process monitoring,Windows Registry,Windows event logs
+Authentication logs
+Authentication logs,Packet capture,Process monitoring,API monitoring
+API monitoring,Process monitoring
+File monitoring,Network protocol analysis,Network device logs,Process use of network
+Network protocol analysis,Netflow/Enclave netflow
+Packet capture,Network device logs,Process use of network,Web proxy,Network intrusion detection system,SSL/TLS inspection
+Azure activity logs,AWS CloudTrail logs,Stackdriver logs,Packet capture,Web logs,Web application firewall logs,Application logs
+Process monitoring,Process command-line parameters,Process use of network,Windows event logs
+Packet capture,Web proxy,Email gateway,Detonation chamber,SSL/TLS inspection,DNS records,Mail server
+File monitoring,Packet capture,Network intrusion detection system,Detonation chamber,Email gateway,Mail server
+SSL/TLS inspection,Anti-virus,Web proxy
+Web proxy,File monitoring
+API monitoring,Binary file metadata,DLL monitoring,Windows Registry,Windows event logs,Process command-line parameters,Process monitoring
+API monitoring,Packet capture,Windows event logs
+API monitoring,Application logs,DLL monitoring,Loaded DLLs,Process monitoring,Windows Registry,Windows event logs
+Azure activity logs,Stackdriver logs,AWS CloudTrail logs,Application logs,Authentication logs,Third-party application logs
+Asset management,Data loss prevention
+Process command-line parameters,Process monitoring
+File monitoring,Process monitoring,Process command-line parameters,Windows event logs
+Anti-virus,System calls,Process monitoring
+Anti-virus,Process command-line parameters,Process monitoring
+Packet capture,Netflow/Enclave netflow
+File monitoring,Process command-line parameters
+API monitoring,Authentication logs,Network protocol analysis,Packet capture
+Windows event logs
+API monitoring,Binary file metadata,DLL monitoring,File monitoring,Loaded DLLs,Process monitoring
+Windows Error Reporting,Process monitoring,File monitoring
+Windows Error Reporting,Process monitoring,File monitoring
+Authentication logs,Windows Error Reporting,Process monitoring
+Azure activity logs,AWS CloudTrail logs,Stackdriver logs,OAuth audit logs,Application logs,Authentication logs,Data loss prevention,Third-party application logs
+Windows Registry,Process command-line parameters,Process monitoring
+System calls,Process monitoring,Process command-line parameters
+Process monitoring,Process command-line parameters
+API monitoring,File monitoring,Process command-line parameters,Process monitoring
+Process monitoring,Process command-line parameters
+Network intrusion detection system,Network protocol analysis,Process use of network,Process monitoring
+Process monitoring,Process command-line parameters,Process use of network,DLL monitoring
+Anti-virus,Email gateway,Network intrusion detection system,Web logs
+File monitoring,Process monitoring,Process command-line parameters,Windows event logs
+File monitoring,Process monitoring,Process command-line parameters
+Process monitoring
+PowerShell logs,API monitoring,Process command-line parameters,Process monitoring
+Process use of network,Packet capture,Network device logs,Netflow/Enclave netflow,DNS records
+Windows event logs
+File monitoring,Process command-line parameters,Process monitoring
+Kernel drivers,File monitoring,Process command-line parameters,Process monitoring
+Kernel drivers,MBR
+Kernel drivers,Process monitoring,Process command-line parameters
+Process command-line parameters,Process monitoring,Windows Registry,API monitoring
+Windows Registry,Services,Windows event logs,Process command-line parameters,Process monitoring
+Packet capture,Web application firewall logs,Web logs,Packet capture
+Application logs,File monitoring
+Packet capture,Network protocol analysis
+File monitoring,Process monitoring
+BIOS,Component firmware
+Azure activity logs,Stackdriver logs,AWS CloudTrail logs,Process use of network,Process monitoring,Network protocol analysis,Network device logs
+Process monitoring,Process command-line parameters
+Sensor health and status,Network protocol analysis,Netflow/Enclave netflow,Network intrusion detection system,Network device logs
+SSL/TLS inspection,Web logs,Web application firewall logs,Network intrusion detection system,Network protocol analysis,Network device logs,Netflow/Enclave netflow
+Process command-line parameters,Process monitoring,File monitoring
+Process command-line parameters,Process monitoring,File monitoring
+Windows event logs,Process monitoring,API monitoring
+Process monitoring,PowerShell logs,File monitoring,API monitoring
+Process monitoring,File monitoring,PowerShell logs
+File monitoring,Application logs
+Authentication logs,Office 365 account logs
+File monitoring,Process monitoring,API monitoring
+Process command-line parameters,Process monitoring,File monitoring
+File monitoring,API monitoring
+Azure activity logs,AWS CloudTrail logs,Authentication logs
+
+Azure activity logs,Stackdriver logs,AWS CloudTrail logs
+OAuth audit logs,Office 365 account logs
+Azure activity logs,OAuth audit logs
+Windows event logs,Process command-line parameters,Process monitoring
+Stackdriver logs,Azure activity logs,AWS CloudTrail logs
+Windows event logs,Process command-line parameters,Process monitoring
+SSL/TLS inspection,DNS records,Anti-virus,Web proxy,File monitoring,Mail server,Office 365 trace logs
+Stackdriver logs,Azure activity logs,AWS CloudTrail logs
+Azure OS logs,AWS CloudTrail logs,Azure activity logs,Stackdriver logs,AWS OS logs
+Stackdriver logs,Azure activity logs,AWS CloudTrail logs
+Office 365 audit logs,Azure activity logs,Stackdriver logs,AWS CloudTrail logs
+File monitoring,API monitoring
+
